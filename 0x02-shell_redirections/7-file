@@ -1,8 +1,2 @@
 #!/bin/bash
-
-# Create the file with the specified filename and text
-echo "Best School" > '*\\'"Best School"\'\\*$\?\*\*\*\*\*:\)'
-
-# Add a newline to the end of the file
-echo >> '*\\'"Best School"\'\\*$\?\*\*\*\*\*:\)'
-
+echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:)
